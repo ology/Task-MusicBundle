@@ -1,6 +1,7 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+    - Added Music::VoiceGen
 
 0.05  2014-09-27
     - Added Music::Intervals
