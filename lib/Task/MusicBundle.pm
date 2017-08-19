@@ -5,7 +5,7 @@ BEGIN {
 # ABSTRACT: A bundle of MIDI and music modules
 use strict;
 use warnings;
-our $VERSION = '0.06';
+our $VERSION = '0.08';
 1;
 
 __END__
@@ -43,6 +43,8 @@ L<Acme::Vuvuzela>
 L<App::Music::PlayTab>
 
 L<App::MusicTools>
+
+L<Csound>
 
 L<MIDI>
 
@@ -88,6 +90,8 @@ L<Music::LilyPondUtil>
 
 L<Music::NeoRiemannianTonnetz>
 
+L<Music::RecRhythm>
+
 L<Music::Scala>
 
 L<Music::Scales> - Aug 08, 2003
@@ -103,8 +107,6 @@ L<Text::Chord::Piano>
 =head1 TO DO
 
 * Install in order of reverse dependency somehow?
-
-* Make sub-bundles for C<B::M::MIDI>, C<B::M::Theory>, C<B::M::ID3>, etc?
 
 * Maybe include:
 
