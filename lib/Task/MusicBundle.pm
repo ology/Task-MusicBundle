@@ -5,7 +5,7 @@ BEGIN {
 # ABSTRACT: A bundle of MIDI and music modules
 use strict;
 use warnings;
-our $VERSION = '0.08';
+our $VERSION = '0.09';
 1;
 
 __END__
@@ -89,6 +89,8 @@ L<Music::Intervals>
 L<Music::LilyPondUtil>
 
 L<Music::NeoRiemannianTonnetz>
+
+L<Music::Note::Role::Operators>
 
 L<Music::RecRhythm>
 
