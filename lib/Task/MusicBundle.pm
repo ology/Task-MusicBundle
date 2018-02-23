@@ -48,6 +48,8 @@ L<Csound>
 
 L<MIDI>
 
+L<MIDI::Drummer::Tiny>
+
 L<MIDI::Morph> - Jun 04, 2005
 
 L<MIDI::Pitch> - Nov 30, 2005
@@ -91,6 +93,8 @@ L<Music::LilyPondUtil>
 L<Music::NeoRiemannianTonnetz>
 
 L<Music::Note::Role::Operators>
+
+L<Music::PitchNum>
 
 L<Music::RecRhythm>
 
