@@ -86,11 +86,15 @@ L<Music::Gestalt> - Jul 13, 2005
 
 L<Music::Harmonics> - May 11, 2005
 
+L<Music::Interval::Barycentric>
+
 L<Music::Intervals>
 
 L<Music::LilyPondUtil>
 
 L<Music::NeoRiemannianTonnetz>
+
+L<Music::Note::Frequency>
 
 L<Music::Note::Role::Operators>
 
