@@ -5,7 +5,7 @@ BEGIN {
 # ABSTRACT: A bundle of MIDI and music modules
 use strict;
 use warnings;
-our $VERSION = '0.09';
+our $VERSION = '0.10';
 1;
 
 __END__
@@ -103,6 +103,8 @@ L<Music::Tempo> - Aug 08, 2003
 L<Music::Tension>
 
 L<Music::VoiceGen>
+
+L<Music::Voss>
 
 L<Text::Chord::Piano>
 

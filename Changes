@@ -1,6 +1,9 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+    - Added Music::Voss
+
+0.09 2018-02-22 22:46:51
     - Added Music::Note::Role::Operators
 
 0.08 2017-08-19 06:28:59
