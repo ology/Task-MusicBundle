@@ -106,6 +106,8 @@ L<Music::RecRhythm>
 
 L<Music::Scala>
 
+L<Music::ScaleNote>
+
 L<Music::Scales> - Aug 08, 2003
 
 L<Music::Tempo> - Aug 08, 2003
