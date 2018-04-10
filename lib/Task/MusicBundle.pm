@@ -136,8 +136,6 @@ L<MIDI::XML> - Jan 24, 2003 - This has Tk as a dependency - for an XML module. S
 
 L<Music::Image::Chord> - Oct 03, 2003,
 
-L<Music::PitchNum>
-
 L<PDL::Audio>,
 
 L<POE::Framework::MIDI> - Mar 19, 2006,
