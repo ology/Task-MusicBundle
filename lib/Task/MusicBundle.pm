@@ -5,7 +5,7 @@ BEGIN {
 # ABSTRACT: A bundle of MIDI and music modules
 use strict;
 use warnings;
-our $VERSION = '0.14';
+our $VERSION = '0.15';
 1;
 
 __END__
@@ -53,6 +53,8 @@ L<MIDI>
 L<MIDI::Drummer::Tiny>
 
 L<MIDI::Morph> - Jun 04, 2005
+
+L<MIDI::Ngram>
 
 L<MIDI::Pitch> - Nov 30, 2005
 
