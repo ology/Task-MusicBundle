@@ -1,17 +1,24 @@
 package Task::MusicBundle;
+
 BEGIN {
   $Task::MusicBundle::AUTHORITY = 'cpan:GENE';
 }
+
 # ABSTRACT: A bundle of MIDI and music modules
+
 use strict;
 use warnings;
-our $VERSION = '0.16';
+
+our $VERSION = '0.1700';
+
 1;
 
 __END__
 
 =head1 SYNOPSIS
 
+ cpanm Task::MusicBundle
+ # or
  cpan Task::MusicBundle
  # or
  perl -MCPAN -e 'install Task::MusicBundle'
@@ -63,6 +70,8 @@ L<MIDI::Tools> - Jun 04, 2005
 L<MIDI::Trans> - May 24, 2002
 
 L<MIDI::Tweaks>
+
+L<MIDI::Util>
 
 L<Music::AtonalUtil>
 

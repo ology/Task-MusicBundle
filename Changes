@@ -1,6 +1,7 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+    - Added MIDI::Util.
 
 0.16 2018-11-17 22:07:20
     - Added Music::ToRoman.
