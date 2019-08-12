@@ -1,6 +1,9 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+    - Added Music::Cadence.
+
+0.1700 2019-06-06 19:44:44
     - Added MIDI::Util.
 
 0.16 2018-11-17 22:07:20

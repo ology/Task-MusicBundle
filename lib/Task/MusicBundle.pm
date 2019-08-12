@@ -75,6 +75,8 @@ L<MIDI::Util>
 
 L<Music::AtonalUtil>
 
+L<Music::Cadence>
+
 L<Music::Canon>
 
 L<Music::ChordBot>
