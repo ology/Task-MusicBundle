@@ -9,7 +9,7 @@ BEGIN {
 use strict;
 use warnings;
 
-our $VERSION = '0.1800';
+our $VERSION = '0.1801';
 
 1;
 
@@ -51,13 +51,13 @@ L<MIDI>
 
 L<MIDI::Drummer::Tiny>
 
-L<MIDI::Morph> - Jun 04, 2005
+L<MIDI::Morph>
 
 L<MIDI::Ngram>
 
-L<MIDI::Pitch> - Nov 30, 2005
+L<MIDI::Pitch>
 
-L<MIDI::Praxis::Variation> - Sept 30, 2005
+L<MIDI::Praxis::Variation>
 
 L<MIDI::Simple::Drummer>
 
@@ -65,9 +65,9 @@ L<MIDI::SoundFont>
 
 L<MIDI::Tab>
 
-L<MIDI::Tools> - Jun 04, 2005
+L<MIDI::Tools>
 
-L<MIDI::Trans> - May 24, 2002
+L<MIDI::Trans>
 
 L<MIDI::Tweaks>
 
@@ -81,7 +81,7 @@ L<Music::Canon>
 
 L<Music::ChordBot>
 
-L<Music::Chord::Namer> - Mar 14, 2006
+L<Music::Chord::Namer>
 
 L<Music::Chord::Note>
 
@@ -89,9 +89,11 @@ L<Music::Chord::Positions>
 
 L<Music::Duration>
 
-L<Music::Gestalt> - Jul 13, 2005
+L<Music::Duration::Partition>
 
-L<Music::Harmonics> - May 11, 2005
+L<Music::Gestalt>
+
+L<Music::Harmonics>
 
 L<Music::Interval::Barycentric>
 
@@ -113,9 +115,9 @@ L<Music::Scala>
 
 L<Music::ScaleNote>
 
-L<Music::Scales> - Aug 08, 2003
+L<Music::Scales>
 
-L<Music::Tempo> - Aug 08, 2003
+L<Music::Tempo>
 
 L<Music::Tension>
 
