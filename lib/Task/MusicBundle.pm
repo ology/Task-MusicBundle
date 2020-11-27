@@ -49,6 +49,8 @@ L<Guitar::Scale>
 
 L<MIDI>
 
+L<MIDI::Chord::Guitar>
+
 L<MIDI::Drummer::Tiny>
 
 L<MIDI::Morph>
