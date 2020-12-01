@@ -1,6 +1,9 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+    - Remove non-composition oriented modules.
+
+0.1900 2020-11-26 19:59:11
     - Add Music::Duration::Partition.
     - Add MIDI::Chord::Guitar.
 
