@@ -9,7 +9,7 @@ BEGIN {
 use strict;
 use warnings;
 
-our $VERSION = '0.1901';
+our $VERSION = '0.1902';
 
 1;
 
@@ -84,6 +84,8 @@ L<Music::Chord::Namer>
 L<Music::Chord::Note>
 
 L<Music::Chord::Positions>
+
+L<Music::Chord::Progression>
 
 L<Music::Duration>
 
