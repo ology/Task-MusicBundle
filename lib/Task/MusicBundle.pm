@@ -97,6 +97,12 @@ L<Music::Interval::Barycentric>
 
 L<Music::Intervals>
 
+L<Music::MelodicDevice::Inversion>
+
+L<Music::MelodicDevice::Ornamentation>
+
+L<Music::MelodicDevice::Transposition>
+
 L<Music::NeoRiemannianTonnetz>
 
 L<Music::Note::Frequency>
