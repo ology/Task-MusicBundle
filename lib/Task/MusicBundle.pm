@@ -51,8 +51,6 @@ L<MIDI::Drummer::Tiny>
 
 L<MIDI::Morph>
 
-L<MIDI::Ngram>
-
 L<MIDI::Pitch>
 
 L<MIDI::Praxis::Variation>
