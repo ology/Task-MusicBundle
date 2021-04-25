@@ -1,6 +1,8 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+
+0.1903 2020-12-19 08:08:21
     - Remove MIDI::Ngram because it is not about composition.
     - Add Music::MelodicDevice::Inversion.
     - Add Music::MelodicDevice::Transposition.
