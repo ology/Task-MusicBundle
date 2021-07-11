@@ -91,6 +91,8 @@ L<Music::Duration::Partition>
 
 L<Music::Gestalt>
 
+L<Music::Guidonian>
+
 L<Music::Harmonics>
 
 L<Music::Interval::Barycentric>
