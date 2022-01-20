@@ -9,7 +9,7 @@ BEGIN {
 use strict;
 use warnings;
 
-our $VERSION = '0.1904';
+our $VERSION = '0.1905';
 
 1;
 
@@ -58,8 +58,6 @@ L<MIDI::Praxis::Variation>
 L<MIDI::Simple::Drummer>
 
 L<MIDI::SoundFont>
-
-L<MIDI::Tab>
 
 L<MIDI::Tools>
 
