@@ -108,6 +108,8 @@ L<Music::MelodicDevice::Transposition>
 
 L<Music::NeoRiemannianTonnetz>
 
+L<Music::Note>
+
 L<Music::Note::Frequency>
 
 L<Music::Note::Role::Operators>
