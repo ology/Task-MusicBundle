@@ -35,8 +35,7 @@ things are not included.
 If you would like to see a specific module included (or discluded),
 please email me or use rt.cpan.org.
 
-At this initial writing modules marked with a date, in the
-C<CONTENTS>, are 10 years or older. But so what?
+Some modules in the C<CONTENTS> are 10 years or older. But so what?
 B<Music is older than agriculture>.
 
 =head1 CONTENTS
