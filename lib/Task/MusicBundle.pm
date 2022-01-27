@@ -4,12 +4,12 @@ BEGIN {
   $Task::MusicBundle::AUTHORITY = 'cpan:GENE';
 }
 
-# ABSTRACT: A bundle of MIDI and music modules
+# ABSTRACT: MIDI and music creation modules
 
 use strict;
 use warnings;
 
-our $VERSION = '0.1906';
+our $VERSION = '0.1907';
 
 1;
 
