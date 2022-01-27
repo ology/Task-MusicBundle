@@ -27,8 +27,8 @@ __END__
 
 =head1 DESCRIPTION
 
-This is a bundle to install various MIDI and Music related to the
-creation of music.  This is B<not> a bundle of B<all> the MIDI and
+This is a bundle to install various MIDI and Music modules related to
+the creation of music.  This is B<not> a bundle of B<all> the MIDI and
 Music modules out there.  Analysis, lyrics, notation, and tablature
 things are not included.
 
