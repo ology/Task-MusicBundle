@@ -96,10 +96,6 @@ L<Music::Guidonian>
 
 L<Music::Harmonics>
 
-L<Music::Interval::Barycentric>
-
-L<Music::Intervals>
-
 L<Music::MelodicDevice::Inversion>
 
 L<Music::MelodicDevice::Ornamentation>

@@ -2,6 +2,7 @@ Revision history for Task-MusicBundle
 
 {{$NEXT}}
     - Whoa. Music::Note has been missing this whole time!
+    - Remove analysis modules
 
 0.1907 2022-01-27 13:14:48
     - Fix-up the description again.
