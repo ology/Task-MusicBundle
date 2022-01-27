@@ -1,6 +1,10 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+    - Fix-up the description again.
+    - Improve the module ABSTRACT.
+
+0.1906 2022-01-27 13:07:41
     - Enhance the module description.
 
 0.1905 2022-01-19 18:05:10
