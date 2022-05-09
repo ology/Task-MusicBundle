@@ -1,6 +1,8 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+
+0.1910 2022-04-30 11:19:18
     - Actually require Music::RhythmSet!
 
 0.1909 2022-04-30 11:15:15
