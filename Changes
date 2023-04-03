@@ -1,6 +1,8 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+    - Add Music::Chord::Progression::Transform.
+    - Add Music::CreatingRhythms.
 
 0.1910 2022-04-30 11:19:18
     - Actually require Music::RhythmSet!
