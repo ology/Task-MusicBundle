@@ -86,6 +86,10 @@ L<Music::Chord::Positions>
 
 L<Music::Chord::Progression>
 
+L<Music::Chord::Progression::Transform>
+
+L<Music::CreatingRhythms>
+
 L<Music::Duration>
 
 L<Music::Duration::Partition>
