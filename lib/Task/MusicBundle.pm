@@ -28,14 +28,14 @@ __END__
 =head1 DESCRIPTION
 
 This is a bundle to install various MIDI and Music modules related to
-the creation of music.  This is B<not> a bundle of B<all> the MIDI and
-Music modules out there.  Analysis, lyrics, notation, and tablature
+the creation of music. This is B<not> a bundle of B<all> the MIDI and
+Music modules out there. Analysis, lyrics, notation, and tablature
 things are not included.
 
 If you would like to see a specific module included (or discluded),
-please email me or use rt.cpan.org.
+please email me or open a GitHub pull request for this distibution.
 
-Some modules in the C<CONTENTS> are 10 years or older. But so what?
+Some modules are 10 years or older. But so what?
 B<Music is older than agriculture>.
 
 =head1 CONTENTS
