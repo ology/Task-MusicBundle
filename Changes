@@ -2,6 +2,7 @@ Revision history for Task-MusicBundle
 
 {{$NEXT}}
     - Add MIDI::Bassline::Walk.
+    - Improve documentation.
 
 0.1911 2023-04-02 18:18:12
     - Add Music::Chord::Progression::Transform.
