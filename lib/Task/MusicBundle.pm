@@ -9,7 +9,7 @@ BEGIN {
 use strict;
 use warnings;
 
-our $VERSION = '0.1911';
+our $VERSION = '0.1912';
 
 1;
 
