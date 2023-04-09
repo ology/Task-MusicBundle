@@ -33,7 +33,7 @@ Music modules out there. Analysis, lyrics, notation, and tablature
 things are not included.
 
 If you would like to see a specific module included (or discluded),
-please email me or open a GitHub pull request for this distibution.
+please email me or open a GitHub pull request for this distribution.
 
 Some modules are 10 years or older. But so what?
 B<Music is older than agriculture>.
