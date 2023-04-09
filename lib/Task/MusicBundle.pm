@@ -48,6 +48,8 @@ L<Guitar::Scale>
 
 L<MIDI>
 
+L<MIDI::Bassline::Walk>
+
 L<MIDI::Chord::Guitar>
 
 L<MIDI::Drummer::Tiny>
