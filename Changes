@@ -1,6 +1,7 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+    - Add the missing Data::Dataset::ChordProgressions module.
 
 0.1913 2023-04-15 12:52:52
     - Huh - String::Approx? Sure, but no.
