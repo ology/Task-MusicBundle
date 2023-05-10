@@ -44,6 +44,8 @@ L<App::MusicTools>
 
 L<Csound>
 
+L<Data-Dataset-ChordProgressions>
+
 L<Guitar::Scale>
 
 L<MIDI>
