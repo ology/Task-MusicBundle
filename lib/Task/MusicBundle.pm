@@ -50,7 +50,7 @@ L<Guitar::Scale>
 
 L<MIDI>
 
-L<MIDI::Bassline::Walk>
+L<Music::Bassline::Generator>
 
 L<MIDI::Chord::Guitar>
 

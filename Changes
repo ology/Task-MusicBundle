@@ -1,6 +1,7 @@
 Revision history for Task-MusicBundle
 
 {{$NEXT}}
+    - Replaced MIDI::Bassline::Walk with Music::Bassline::Generator.
 
 0.1914 2023-05-10 10:35:22
     - Add the missing Data::Dataset::ChordProgressions module.
